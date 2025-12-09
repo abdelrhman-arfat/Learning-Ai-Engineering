@@ -24,24 +24,16 @@ source .venv/bin/activate
 pip install numpy
 ```
 
-# ===========================
-
 # NumPy Practical Reference - Organized for Learning AI / Embeddings
 
 # Each section explains the logic and purpose
-
-# ===========================
 
 ```python
 import numpy as np
 import time
 ```
 
-# ===========================
-
 # 1️⃣ Creating Arrays (0D, 1D, 2D)
-
-# ===========================
 
 # 0D array = scalar
 
@@ -72,11 +64,7 @@ print("Number of dimensions:", arrayDTwo.ndim)
 
 ```
 
-# ===========================
-
 # 2️⃣ Element-wise Operations
-
-# ===========================
 
 ```python
 # NumPy arrays allow operations on all elements at once (vectorization)
@@ -89,11 +77,7 @@ print("Power 2:", arr\*\*2)
 
 ```
 
-# ===========================
-
 # 3️⃣ Performance Comparison Python vs NumPy
-
-# ===========================
 
 ```python
 
@@ -121,11 +105,7 @@ end = time.time()
 print("NumPy array multiplication time:", end-start)
 ```
 
-# ===========================
-
 # 4️⃣ Reshape and Split Arrays
-
-# ===========================
 
 # Reshape a 1D array to 3D
 
@@ -144,11 +124,7 @@ print("Array split into 3 parts:", newarr)
 
 ```
 
-# ===========================
-
 # 5️⃣ Find Elements (np.where) vs Python
-
-# ===========================
 
 # NumPy approach
 
@@ -171,11 +147,7 @@ print("Result index:", x)
 
 ```
 
-# ===========================
-
 # 6️⃣ Sorting Arrays
-
-# ===========================
 
 # Python list sort
 
@@ -195,11 +167,7 @@ end = time.time()
 print("NumPy array sort time:", end-start)
 ```
 
-# ===========================
-
 # 7️⃣ Sum, Mean, Norm
-
-# ===========================
 
 ```python
 arr = np.array([1,2,3,4,5])
@@ -209,11 +177,7 @@ print("Mean:", arr.mean())
 print("Norm (length of vector):", np.linalg.norm(arr))
 ```
 
-# ===========================
-
 # 8️⃣ Filter Elements (Boolean Indexing)
-
-# ===========================
 
 # Python list filtering
 
@@ -234,11 +198,7 @@ print("NumPy filtered even numbers time:", end-start)
 
 embeddings
 
-# ===========================
-
 # 9️⃣ Advanced Slicing and Views vs Copy
-
-# ===========================
 
 ```python
 arr = np.array([1,2,3,4,5])
@@ -252,11 +212,7 @@ print("Array after copy modification:", arr)
 
 ```
 
-# ===========================
-
 # 10️⃣ Stacking / Concatenation
-
-# ===========================
 
 ```python
 a = np.array([1,2,3])
@@ -280,11 +236,7 @@ print("Hstack:\n", np.hstack([arr1,arr2]))
 
 ```
 
-# ===========================
-
 # 11️⃣ Random Numbers / Embeddings
-
-# ===========================
 
 ```python
 # Create random  for AI
@@ -295,11 +247,7 @@ print("Random vector shape:", vec.shape)
 print("Random matrix shape:", mat.shape)
 ```
 
-# ===========================
-
 # 12️⃣ Linear Algebra - Dot Product and Cosine Similarity
-
-# ===========================
 
 ```python
 a = np.array([1,2,3])
@@ -314,11 +262,7 @@ print("Norm b:", norm_b)
 print("Cosine similarity:", cos_sim)
 ```
 
-# ===========================
-
 # 13️⃣ Broadcasting
-
-# ===========================
 
 ```python
 
@@ -329,11 +273,7 @@ print("Multiply by 2:", arr\*2)
 
 ```
 
-# ===========================
-
 # 14️⃣ Axis Operations
-
-# ===========================
 
 ```python
 
