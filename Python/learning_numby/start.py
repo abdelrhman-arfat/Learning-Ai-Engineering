@@ -134,3 +134,9 @@ vec = np.random.rand(768)  # single embedding of dimension 768
 mat = np.random.randn(100, 768)  # 100 embeddings (100x768)
 print("Random vector shape:", vec.shape)
 print("Random matrix shape:", mat.shape)
+
+
+arr = np.array([[1, 2, 3], [4, 5, 6]])
+print("Original 2D array:\n", arr)
+print("Sum along columns (axis=0):", arr.sum(axis=0))
+print("Sum along rows (axis=1):", arr.sum(axis=1))

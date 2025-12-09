@@ -1,0 +1,38 @@
+[
+    {
+        "status_name":"Cancelled",
+        "order_count":60,
+        "total_quantity":2038,
+        "total_sales":171195.49
+    },
+    {
+        "status_name":"Disputed",
+        "order_count":14,
+        "total_quantity":597,
+        "total_sales":55171.32
+    },
+    {
+        "status_name":"In Process",
+        "order_count":41,
+        "total_quantity":1490,
+        "total_sales":120601.78
+    },
+    {
+        "status_name":"On Hold",
+        "order_count":44,
+        "total_quantity":1879,
+        "total_sales":158910.2
+    },
+    {
+        "status_name":"Resolved",
+        "order_count":47,
+        "total_quantity":1660,
+        "total_sales":133868.64
+    },
+    {
+        "status_name":"Shipped",
+        "order_count":2617,
+        "total_quantity":91403,
+        "total_sales":7651139.3600000003
+    }
+]

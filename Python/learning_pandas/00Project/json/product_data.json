@@ -1,0 +1,44 @@
+[
+    {
+        "product_line":"Classic Cars",
+        "total_orders":967,
+        "total_quantity":33992,
+        "total_sales":2968546.3999999999
+    },
+    {
+        "product_line":"Motorcycles",
+        "total_orders":331,
+        "total_quantity":11663,
+        "total_sales":971086.29
+    },
+    {
+        "product_line":"Planes",
+        "total_orders":306,
+        "total_quantity":10727,
+        "total_sales":877942.21
+    },
+    {
+        "product_line":"Ships",
+        "total_orders":234,
+        "total_quantity":8127,
+        "total_sales":677940.4
+    },
+    {
+        "product_line":"Trains",
+        "total_orders":77,
+        "total_quantity":2712,
+        "total_sales":203804.26
+    },
+    {
+        "product_line":"Trucks and Buses",
+        "total_orders":301,
+        "total_quantity":10777,
+        "total_sales":947355.1800000001
+    },
+    {
+        "product_line":"Vintage Cars",
+        "total_orders":607,
+        "total_quantity":21069,
+        "total_sales":1644212.05
+    }
+]
