@@ -43,12 +43,11 @@ Each topic is divided into tasks that I complete one-by-one.
 | ------------------------ | --------------------------------------------------------- | -------------- |
 | **01 - Python Advanced** | Iterators, generators, decorators, profiling, concurrency | ✅ ending      |
 | **02 - Numpy & Pandas**  | Numerical computing, vectorization, data cleaning         | ⏳ In Progress |
-| **03 - PyTorch**         | Tensors, autograd, training loops                         | ⏳ In Progress |
-| **04 - Embeddings**      | Text embedding models, similarity search                  | 🔜 Pending     |
-| **05 - Vector DBs**      | Chroma, Pinecone, LanceDB, indexing                       | 🔜 Pending     |
-| **06 - RAG**             | Chunking, retrieval, reranking, LLM pipeline              | 🔜 Pending     |
-| **07 - AI Agents**       | Tools, planning, memory, multi-agent systems              | 🔜 Pending     |
-| **08 - Automation**      | Deploy RAG/agents with Docker & CI/CD                     | 🔜 Pending     |
+| **03 - Embeddings**      | Text embedding models, similarity search                  | 🔜 Pending     |
+| **04 - Vector DBs**      | Chroma, Pinecone, LanceDB, indexing                       | 🔜 Pending     |
+| **05 - RAG**             | Chunking, retrieval, reranking, LLM pipeline              | 🔜 Pending     |
+| **06 - AI Agents**       | Tools, planning, memory, multi-agent systems              | 🔜 Pending     |
+| **07 - Automation**      | Deploy RAG/agents with Docker & CI/CD                     | 🔜 Pending     |
 
 ---
 
