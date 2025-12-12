@@ -12,6 +12,10 @@ Welcome to my **AI Engineering Journey Repository** — a complete roadmap docum
 - **Portfolio:** https://abdoyasser.vercel.app
 - **Goal:** Become a **Full-Stack AI Engineer** capable of building:
 
+---
+
+## Goals
+
 - RAG systems
 - AI Agents
 - Vector DB pipelines
