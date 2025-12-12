@@ -6,11 +6,11 @@ Welcome to my **AI Engineering Journey Repository** — a complete roadmap docum
 
 ## 👨‍💻 About Me
 
-**Name:** Abdelrahman Yasser
-**Background:** Fullstack Developer Backend foucs (Laravel,Typescript: MERN & Next.js, DevOps basics)
-**Role:** Backend Developer @ Code root
-**Portfolio:** https://abdoyasser.vercel.app
-**Goal:** Become a **Full-Stack AI Engineer** capable of building:
+- **Name:** Abdelrahman Yasser
+- **Background:** Fullstack Developer Backend foucs (Laravel,Typescript: MERN & Next.js, DevOps basics)
+- **Role:** Backend Developer @ Code root
+- **Portfolio:** https://abdoyasser.vercel.app
+- **Goal:** Become a **Full-Stack AI Engineer** capable of building:
 
 - RAG systems
 - AI Agents
@@ -20,7 +20,6 @@ Welcome to my **AI Engineering Journey Repository** — a complete roadmap docum
 - Data engineering mini-pipelines
 
 ---
-
 
 ## 📘 Repository Purpose
 
